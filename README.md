@@ -23,9 +23,9 @@ This launcher was made to fix a problem: Cosmic Reach on mac has to be opened vi
 This project is made possible by a small project called **itch-dl** (https://github.com/DragoonAethis/itch-dl), which allows for easy downloading of itch.io games.
 
 # Compiling from source
-If for whatever reason you want to compile from source, you can do so by installing pyinstaller by running <code>pip3 install pyinstaller</code>
+You could just run the python file without compiling, but if for whatever reason you want to compile from source, you can do so by installing pyinstaller by running <code>pip3 install pyinstaller</code>
 
 After that, navigate to the same directory as "Cosmic Reach Mac Launcher.py" and run <code>./PACKAGE.sh</code>
 
 
-You could also just run the python file without compiling.
+NOTE: This will not work on windows even if you just run the python file, since the version of itch-dl included is for unix.
