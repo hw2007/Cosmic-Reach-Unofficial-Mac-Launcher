@@ -1,6 +1,13 @@
 # Cosmic-Reach-Unofficial-Mac-Launcher
 A launcher for the game "Cosmic Reach" intended to make it easier to update &amp; launch on macOS.
 
+# Installing
+1. Install the latest build, and unzip the zip file.
+2. Open a new terminal inside that folder, and run <code>./Install.sh</code>
+3. Open the app. If it opened properly, now you can move it into your applications folder or wherever you like.
+
+When you open it for the first time, a log window will appear to display status updates while it downloads Cosmic Reach for you. Eventually, the log window will disappear and the launcher will open.
+
 # Use case
 This launcher was made to fix a problem: Cosmic Reach on mac has to be opened via a jar file, which can't be easily opened in spotlight search, and the itch.io app can't install it automatically. This launcher fixes both of these things!
 
@@ -9,11 +16,6 @@ This launcher was made to fix a problem: Cosmic Reach on mac has to be opened vi
 - Launch the game easily from the launcher
 - Update the game automatically, with one click!
 - Multi-version support is currently not implimented, but maybe in the future I'll add it if there is enough people wanting it.
-
-# Usage
-Install the latest build on the right, and it's as simple as opening Cosmic Reach Mac Launcher.app!
-
-When you open it for the first time, a log window will appear to display status updates while it downloads Cosmic Reach for you. Eventually, the log window will disappear and the launcher will open.
 
 # Credits
 This project is made possible by a small project called **itch-dl** (https://github.com/DragoonAethis/itch-dl), which allows for easy downloading of itch.io games.
