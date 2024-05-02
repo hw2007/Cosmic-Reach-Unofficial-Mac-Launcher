@@ -4,6 +4,7 @@ A launcher for the game "Cosmic Reach" intended to make it easier to update &amp
 <img width="482" alt="SCR-20240501-rnum" src="https://github.com/hw2007/Cosmic-Reach-Unofficial-Mac-Launcher/assets/60082961/422b90ec-9fda-4f01-9de9-dc9bf1c7a1e9">
 
 # Installing
+0. Install java 17 if you do not have it already.
 1. Install the latest build, and unzip the zip file.
 2. Open a new terminal inside that folder, and run <code>./Install.sh</code>
 3. Open the app. If it opened properly, now you can move it into your applications folder or wherever you like.
@@ -28,4 +29,4 @@ You could just run the python file without compiling, but if for whatever reason
 After that, navigate to the same directory as "Cosmic Reach Mac Launcher.py" and run <code>./PACKAGE.sh</code>
 
 
-NOTE: This will not work on windows even if you just run the python file, since the version of itch-dl included is for unix.
+NOTE: This will not work on windows even if you use the source code, since the version of itch-dl included is for unix.
