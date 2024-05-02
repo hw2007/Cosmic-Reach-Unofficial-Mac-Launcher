@@ -1,6 +1,8 @@
 # Cosmic-Reach-Unofficial-Mac-Launcher
 A launcher for the game "Cosmic Reach" intended to make it easier to update &amp; launch on macOS.
 
+DISCLAIMER: Someone has reported that this app may not be working. I am not sure why, as it works fine on my mac. Please let me know if it also doesn't work for you!
+
 <img width="482" alt="SCR-20240501-rnum" src="https://github.com/hw2007/Cosmic-Reach-Unofficial-Mac-Launcher/assets/60082961/422b90ec-9fda-4f01-9de9-dc9bf1c7a1e9">
 
 # Installing
